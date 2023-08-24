@@ -1,7 +1,8 @@
 Apples
-Bananas
+Lemons
 Corn
-More dog food
+More dog food and rabbit food
+Rabbit Food
 Cereal
 Bread
 Eggs
