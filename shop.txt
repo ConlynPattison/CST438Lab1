@@ -7,3 +7,4 @@ Cereal
 Bread
 Eggs
 Water
+Coffee & Tea
